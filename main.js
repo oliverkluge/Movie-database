@@ -40,4 +40,3 @@ fetch('https://gist.githubusercontent.com/pankaj28843/08f397fcea7c760a99206bcb0a
         let ul = document.querySelector("ul")
         movieList (ul,MovieData)
     });
-
